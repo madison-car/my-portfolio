@@ -1,8 +1,10 @@
-title: "Your Name's Portfolio"
-description: "Showcasing my bioinformatics research, coding projects, and tutorials."
-theme: jekyll-theme-minimal  # You can change this theme later
+title: "My Portfolio"
+description: "Showcasing my projects and tutorials."
+remote_theme: "mmistakes/minimal-mistakes"  # or any valid theme
 
-# Navigation menu (Main Tabs)
+plugins:
+  - jekyll-include-cache
+
 navigation:
   - title: "Home"
     url: "/"
@@ -12,5 +14,3 @@ navigation:
     url: "/tutorials"
   - title: "Contact"
     url: "/contact"
-
-show_downloads: false
