@@ -1,1 +1,7 @@
----\nlayout: page\ntitle: Projects\npermalink: /projects/\n---\n# Projects 🚀
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+# Projects 🚀
+Here are my research projects and tutorials.
