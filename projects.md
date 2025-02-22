@@ -1,0 +1,1 @@
+---\nlayout: page\ntitle: Projects\npermalink: /projects/\n---\n# Projects 🚀
