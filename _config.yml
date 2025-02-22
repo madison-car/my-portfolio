@@ -13,3 +13,6 @@ header_pages:
   - tutorials.md
   - contact.md
 
+# Ensure skin loads
+minimal_mistakes_skin: default
+
