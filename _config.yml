@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "Showcasing my projects and tutorials."
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 # Enable plugins
 plugins:
