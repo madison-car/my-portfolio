@@ -1,17 +1,15 @@
 title: "My Portfolio"
 description: "Showcasing my projects and tutorials."
-theme: jekyll-theme-modernist
+remote_theme: "mmistakes/minimal-mistakes"
 
-
+# Enable plugins
 plugins:
   - jekyll-include-cache
 
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Tutorials"
-    url: "/tutorials"
-  - title: "Contact"
-    url: "/contact"
+# Navigation (Minimal Mistakes handles this differently)
+header_pages:
+  - index.md
+  - projects.md
+  - tutorials.md
+  - contact.md
+
