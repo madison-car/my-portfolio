@@ -1,6 +1,7 @@
 title: "My Portfolio"
 description: "Showcasing my projects and tutorials."
-remote_theme: "mmistakes/minimal-mistakes"  # or any valid theme
+theme: jekyll-theme-modernist
+
 
 plugins:
   - jekyll-include-cache
